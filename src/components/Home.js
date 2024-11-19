@@ -1,6 +1,6 @@
 import React from 'react'
-import img1 from './images/Hospitals.jpg';
-import ur from './images/UROLOGY.png';
+import img1 from './Images/Hospitals.jpg';
+import ur from './Images/UROLOGY.png';
 const Home = () => {
   return (
     <div >
